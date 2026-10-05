@@ -1,7 +1,6 @@
 # 🧑‍💼 OOP Wrapper – Employee Management System
 
-> A beginner-friendly Python OOP project demonstrating core Object-Oriented Programming concepts through a simple console-based Employee Management System.
-
+**A beginner-friendly Python OOP project demonstrating core Object-Oriented Programming concepts through a simple console-based Employee Management System.**
 ---
 
 ## 📌 Project Overview
